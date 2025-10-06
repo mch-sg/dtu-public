@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# LaTeX build files :)
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Python cache (if you code in Python)
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+.obsidian/
