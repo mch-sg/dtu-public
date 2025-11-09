@@ -1,0 +1,5 @@
+import test_task_01_compound_interest
+import test_task_02_stock_status
+import test_task_03_first_alarm
+import test_task_04_typical_successor
+import test_task_05_dice_fairness
