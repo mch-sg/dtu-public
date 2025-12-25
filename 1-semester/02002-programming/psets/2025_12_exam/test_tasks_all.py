@@ -1,0 +1,10 @@
+import test_task_01_gauge_diameter
+import test_task_02_gate_distance
+import test_task_03_parallel_resistors
+import test_task_04_graph_transpose
+import test_task_05_odd_means
+import test_task_06_navigation_tracking
+import test_task_07_sentence_complexities
+import test_task_08_bike_light
+import test_task_09_suitcase
+import test_task_10_shop_status

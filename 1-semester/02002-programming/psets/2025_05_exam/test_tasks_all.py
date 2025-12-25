@@ -1,0 +1,10 @@
+import test_task_01_polygon_area
+import test_task_02_modified_blackjack
+import test_task_03_running_speed
+import test_task_04_photo_details
+import test_task_05_experiment_numbers
+import test_task_06_bouncing_ball
+import test_task_07_number_statistics
+import test_task_08_two_means
+import test_task_09_bingo_card
+import test_task_10_informative_bingo_card
